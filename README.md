@@ -1,17 +1,17 @@
-Hola 👋, mi nombre soy Hilda Ortiz</h1>
+Hola 👋, mi nombre soy Hilda Ortiz
 Me apasiona el desarrollador frontend-backend de Argentina
 
 
 
-- 🔭 Actualmente estoy trabajando en **Seguridad Digital- Camfecting**
+- 🔭 Estuve investigando sobre **Seguridad Digital- Camfecting**
 
 - 🌱 Actualmente estoy aprendiendo **full stack**
 
-- 👯 Busco colaborar en **Coder Team-equipo de trabajo de UTN**
+- 👯 Estoy colaborando en **Coder Team-equipo de trabajo de UTN**
 
-- 🤝 Busco ayuda con ** Comercio electrónico**
+- 🤝 Estamos desarrollando ** Comercio electrónico**
 
-- 💬 Pregúntame sobre **HTML, CSS, JAVA, JAVASCRIPT**
+- 💬 Tengo conocimiento en **HTML, CSS, JAVA, JAVASCRIPT**
 
 - 📫 Cómo contactarme **yolyhil@gmail.com**
 
